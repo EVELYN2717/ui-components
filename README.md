@@ -257,12 +257,13 @@ ui-components/
 
 ## 📄 Licencia
 
-[Especificar licencia aquí]
+OpenSource
 
 ## 🤝 Contribuir
 
-[Instrucciones para contribuir]
+Escribir un correo a evelynt.gutierrez@gmail.com con la propuesta de constribución y el posible fork de trabajo 
 
 ## 📧 Contacto
 
-[Información de contacto]
+Evelyn Gutierrez
+evelynt.gutierrez@gmail.com
